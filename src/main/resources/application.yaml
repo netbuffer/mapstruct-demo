@@ -1,0 +1,10 @@
+server:
+  port: 14011
+
+logging:
+  root:
+    level: INFO
+
+print-server-address:
+  prefix: --->
+  suffix: <---

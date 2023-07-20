@@ -1,0 +1,2 @@
+### /car/carToCarDto
+GET http://localhost:14011/car/carToCarDto?make=a&numberOfSeats=10&carType.name=ct&carType.category=c
